@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go调度/1.19-1.20/1.driver-guide-notes (1).md",
+                "file": "go调度/1.19-1.20/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.driver-guide-notes (1)"
+              "title": "未命名"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "go调度/1.19-1.20/1.driver-guide-notes (1).md",
+                "file": "go调度/1.19-1.20/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1.driver-guide-notes (1) 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -174,8 +174,19 @@
               "icon": "lucide-list",
               "title": "1.driver-guide-notes (1) 的大纲"
             }
+          },
+          {
+            "id": "e3c35233ecc646f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,15 +205,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb4e7843e99ea516",
+  "active": "8fd41e166082fc4c",
   "lastOpenFiles": [
+    "go调度/1.19-1.20/1.driver-guide-notes (1).md",
+    "go调度/1.19-1.20/未命名.md",
     "其他/提交.md",
     "其他/新建 文本文档.txt",
     "其他/新建文件夹",
     "其他",
     "新建文件夹",
     "新建 文本文档.txt",
-    "go调度/1.19-1.20/1.driver-guide-notes (1).md",
     "未命名.base",
     "2026-01-20.md",
     "欢迎.md",
