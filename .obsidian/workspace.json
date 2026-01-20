@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go调度/1.19-1.20/DriverJS新手引导实现手册.md",
+                "file": "go调度/1.19-1.20/API设计命名规范-动作与状态.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "DriverJS新手引导实现手册"
+              "title": "API设计命名规范-动作与状态"
             }
           }
         ]
@@ -180,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,29 +206,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb4e7843e99ea516",
+  "active": "bb89dacc9aef886d",
   "lastOpenFiles": [
+    "go调度/1.18and before a long/Go规则引擎设计与实现.md",
+    "go调度/1.18and before a long/前端租户隔离实现方案.md",
+    "Excalidraw/Drawing 2026-01-20 22.36.51.excalidraw.md",
+    "go调度/1.19-1.20/API设计命名规范-动作与状态.md",
+    "go调度/1.19-1.20/4.0.grom“忽略零值”的机制.md",
+    "go调度/1.19-1.20/Go与Protobuf编码常见错误与最佳实践.md",
+    "go调度/1.19-1.20/DriverJS新手引导实现手册.md",
     "新建文件夹/1231",
     "新建文件夹",
     "其他/新建文件夹",
     "其他/提交.md",
     "其他/新建 文本文档.txt",
-    "go调度/1.18and before a long/Go规则引擎设计与实现.md",
-    "go调度/1.18and before a long/前端租户隔离实现方案.md",
-    "go调度/1.19-1.20/API设计命名规范-动作与状态.md",
     "go调度/1.19-1.20/GORM与JSON结构体标签指南(含练习).md",
     "go调度/1.19-1.20/Go应用数据流转解析-从网关到数据库.md",
     "go调度/1.19-1.20/Go指针与GORM深度指南.md",
-    "go调度/1.19-1.20/Go与Protobuf编码常见错误与最佳实践.md",
     "go调度/1.19-1.20/Go架构原则-解耦与GORM零值陷阱.md",
-    "go调度/1.19-1.20/DriverJS新手引导实现手册.md",
     "go调度/1.19-1.20/6.数据流转.md",
     "go调度/1.19-1.20/7.知识薄弱点分析与学习笔记.md",
     "go调度/1.19-1.20/5指针在gorm和函数中使用.md",
-    "go调度/1.19-1.20/4.0.grom“忽略零值”的机制.md",
     "go调度/1.19-1.20/3.API 设计笔记命名规范 (Action vs State).md",
     "go调度/1.19-1.20/2.model_grom.md",
-    "Excalidraw/Drawing 2026-01-20 22.36.51.excalidraw.md",
     "go调度/1.19-1.20/未命名.md",
     "其他/1231",
     "go调度/1.19-1.20/1.driver-guide-notes (1).md",
@@ -232,7 +243,6 @@
     "go调度/1.19-1.20/4.1架构原则.md",
     "go调度/1.19-1.20/Drawing 2026-01-20 09.31.58.excalidraw.md",
     "pg/📝 PostgreSQL 学习笔记：Q1. 组合两个表.md",
-    "go调度/1.18and before a long",
-    "go调度/1.19-1.20"
+    "go调度/1.18and before a long"
   ]
 }

@@ -1,6 +1,8 @@
 [
-  "obsidian-tasks-plugin",
-  "obsidian-excalidraw-plugin",
-  "obsidian-git",
-  "obsidian-style-settings"
+  "dataview",
+  "obsidian-linter",
+  "obsidian-mind-map",
+  "obsidian-export-image",
+  "obsidian-style-settings",
+  "obsidian-quiet-outline"
 ]
