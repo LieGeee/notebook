@@ -11,14 +11,14 @@
             "id": "8fd41e166082fc4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "其他/提交.md",
-                "mode": "source",
-                "source": false
+                "aFile": "其他/提交.md",
+                "bFile": "其他/提交.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "提交"
+              "icon": "diff",
+              "title": "Diff: 提交  (Working Tree)"
             }
           },
           {
@@ -104,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/提交.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "提交 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -207,10 +206,11 @@
   },
   "active": "e3c35233ecc646f1",
   "lastOpenFiles": [
-    "其他/1231",
-    "go调度/1.19-1.20/未命名.md",
-    "go调度/1.19-1.20/1.driver-guide-notes (1).md",
     "其他/提交.md",
+    "Excalidraw/Drawing 2026-01-20 22.36.51.excalidraw.md",
+    "go调度/1.19-1.20/未命名.md",
+    "其他/1231",
+    "go调度/1.19-1.20/1.driver-guide-notes (1).md",
     "其他/新建 文本文档.txt",
     "其他/新建文件夹",
     "其他",
@@ -220,7 +220,6 @@
     "2026-01-20.md",
     "欢迎.md",
     "未命名.canvas",
-    "Excalidraw/Drawing 2026-01-20 22.36.51.excalidraw.md",
     "Excalidraw",
     "go调度/1.19-1.20/7.知识薄弱点分析与学习笔记.md",
     "go调度/1.18and before a long/reactive vs computed.md",
@@ -235,7 +234,6 @@
     "go调度/1.18and before a long/frontend-tenant-isolation.md",
     "go调度/1.18and before a long",
     "go调度/1.19-1.20",
-    "go调度/1.18and before a long/rule-engine.md",
-    "pg"
+    "go调度/1.18and before a long/rule-engine.md"
   ]
 }
