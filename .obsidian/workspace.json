@@ -11,14 +11,14 @@
             "id": "8fd41e166082fc4c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "其他/提交.md",
-                "bFile": "其他/提交.md",
-                "aRef": ""
+                "file": "go调度/1.19-1.20/7.知识薄弱点分析与学习笔记.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 提交  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "7.知识薄弱点分析与学习笔记"
             }
           },
           {
@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "go调度/1.19-1.20/7.知识薄弱点分析与学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "7.知识薄弱点分析与学习笔记 的反向链接列表"
             }
           },
           {
@@ -204,9 +205,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3c35233ecc646f1",
+  "active": "8fd41e166082fc4c",
   "lastOpenFiles": [
+    "go调度/1.19-1.20/6.数据流转.md",
+    "go调度/1.19-1.20/7.知识薄弱点分析与学习笔记.md",
     "其他/提交.md",
+    "go调度/1.19-1.20/5指针在gorm和函数中使用.md",
+    "go调度/1.19-1.20/4.0.grom“忽略零值”的机制.md",
+    "go调度/1.19-1.20/3.API 设计笔记命名规范 (Action vs State).md",
+    "go调度/1.19-1.20/2.model_grom.md",
     "Excalidraw/Drawing 2026-01-20 22.36.51.excalidraw.md",
     "go调度/1.19-1.20/未命名.md",
     "其他/1231",
@@ -221,14 +228,8 @@
     "欢迎.md",
     "未命名.canvas",
     "Excalidraw",
-    "go调度/1.19-1.20/7.知识薄弱点分析与学习笔记.md",
     "go调度/1.18and before a long/reactive vs computed.md",
-    "go调度/1.19-1.20/2.model_grom.md",
-    "go调度/1.19-1.20/6.数据流转.md",
-    "go调度/1.19-1.20/5指针在gorm和函数中使用.md",
     "go调度/1.19-1.20/4.1架构原则.md",
-    "go调度/1.19-1.20/4.0.grom“忽略零值”的机制.md",
-    "go调度/1.19-1.20/3.API 设计笔记命名规范 (Action vs State).md",
     "go调度/1.19-1.20/Drawing 2026-01-20 09.31.58.excalidraw.md",
     "pg/📝 PostgreSQL 学习笔记：Q1. 组合两个表.md",
     "go调度/1.18and before a long/frontend-tenant-isolation.md",
