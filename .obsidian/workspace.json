@@ -195,15 +195,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb89dacc9aef886d",
+  "active": "e3c35233ecc646f1",
   "lastOpenFiles": [
-    "go调度/1.19-1.20/Go指针与GORM深度指南.md",
-    "go调度/1.19-1.20/Go架构原则-解耦与GORM零值陷阱.md",
+    "go调度/1.18and before a long/Go规则引擎设计与实现.md",
+    "go调度/1.18and before a long/前端租户隔离实现方案.md",
+    "go调度/1.19-1.20/API设计命名规范-动作与状态.md",
+    "go调度/1.19-1.20/GORM与JSON结构体标签指南(含练习).md",
     "go调度/1.19-1.20/Go应用数据流转解析-从网关到数据库.md",
+    "go调度/1.19-1.20/Go指针与GORM深度指南.md",
     "go调度/1.19-1.20/Go与Protobuf编码常见错误与最佳实践.md",
+    "go调度/1.19-1.20/Go架构原则-解耦与GORM零值陷阱.md",
+    "go调度/1.19-1.20/DriverJS新手引导实现手册.md",
     "go调度/1.19-1.20/6.数据流转.md",
     "go调度/1.19-1.20/7.知识薄弱点分析与学习笔记.md",
-    "go调度/1.19-1.20/DriverJS新手引导实现手册.md",
     "其他/提交.md",
     "go调度/1.19-1.20/5指针在gorm和函数中使用.md",
     "go调度/1.19-1.20/4.0.grom“忽略零值”的机制.md",
@@ -229,7 +233,6 @@
     "pg/📝 PostgreSQL 学习笔记：Q1. 组合两个表.md",
     "go调度/1.18and before a long/frontend-tenant-isolation.md",
     "go调度/1.18and before a long",
-    "go调度/1.19-1.20",
-    "go调度/1.18and before a long/rule-engine.md"
+    "go调度/1.19-1.20"
   ]
 }
