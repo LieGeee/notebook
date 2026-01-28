@@ -12,5 +12,257 @@
       }
     },
     "expandedKeys": []
+  },
+  "go调度/1.19-1.20/DriverJS新手引导实现手册.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 8
+      },
+      "to": {
+        "line": 21,
+        "ch": 8
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/# 员工短链功能实现笔记.md": {
+    "scroll": 114.82646420824295,
+    "cursor": {
+      "from": {
+        "line": 994,
+        "ch": 12
+      },
+      "to": {
+        "line": 994,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/1.19-1.20/GORM与JSON结构体标签指南(含练习).md": {
+    "scroll": 23.26871961102107,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 31
+      },
+      "to": {
+        "line": 22,
+        "ch": 31
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/为什么先创建repository.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 94
+      },
+      "to": {
+        "line": 0,
+        "ch": 94
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/1.0.0员工短链功能实现笔记.md": {
+    "scroll": 189.75054229934923,
+    "cursor": {
+      "from": {
+        "line": 207,
+        "ch": 14
+      },
+      "to": {
+        "line": 207,
+        "ch": 14
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/直接命名create.md": {
+    "scroll": 88.99431818181819,
+    "cursor": {
+      "from": {
+        "line": 100,
+        "ch": 42
+      },
+      "to": {
+        "line": 100,
+        "ch": 42
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/1.1.0为什么先创建repository.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/1.1.0repository.md": {
+    "scroll": 8.9375,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/1.1.0.1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 7
+      },
+      "to": {
+        "line": 0,
+        "ch": 7
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/1.1.0.1解释函数中的含义.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 35,
+        "ch": 0
+      },
+      "to": {
+        "line": 35,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/1.1.1直接命名create.md": {
+    "scroll": 77.49809885931559,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/1.2.0 service结构体为什么定义这里.md": {
+    "scroll": 117.79464931308749,
+    "cursor": {
+      "from": {
+        "line": 182,
+        "ch": 17
+      },
+      "to": {
+        "line": 182,
+        "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/1.2.1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/1.2.1Generate函数解读.md": {
+    "scroll": 79.49180327868852,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/1.19-1.20/4.0.grom“忽略零值”的机制.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/1.1.0.2.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "go调度/127-128/1.1.0.2核心调用链.md": {
+    "scroll": 23.996572019921093,
+    "cursor": {
+      "from": {
+        "line": 93,
+        "ch": 47
+      },
+      "to": {
+        "line": 93,
+        "ch": 47
+      }
+    },
+    "expandedKeys": []
   }
 }

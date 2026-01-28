@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac10a91e3a1293ee",
+        "id": "d0f661f43726d178",
         "type": "tabs",
         "children": [
           {
-            "id": "bb89dacc9aef886d",
+            "id": "ac9618efb743dc64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go调度/1.19-1.20/API设计命名规范-动作与状态.md",
+                "file": "go调度/127-128/1.1.0repository.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "API设计命名规范-动作与状态"
+              "title": "1.1.0repository"
+            }
+          },
+          {
+            "id": "7c43deeca87586c4",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名 3.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2aecd88502f04d07",
@@ -156,8 +170,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           },
           {
@@ -181,8 +195,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -202,25 +216,38 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb89dacc9aef886d",
+  "active": "7c43deeca87586c4",
   "lastOpenFiles": [
+    "未命名 2.base",
+    "未命名 3.base",
+    "未命名 1.base",
+    "未命名.base",
+    "go调度/127-128/1.0.0员工短链功能实现笔记.md",
+    "go调度/127-128/1.1.0repository.md",
+    "go调度/127-128/1.1.0.2核心调用链.md",
+    "go调度/127-128/1.1.0.1解释函数中的含义.md",
+    "go调度/127-128/1.2.0 service结构体为什么定义这里.md",
+    "go调度/127-128/1.1.1直接命名create.md",
+    "go调度/1.19-1.20/4.0.grom“忽略零值”的机制.md",
+    "go调度/127-128/1.2.1Generate函数解读.md",
+    "go调度/1.19-1.20/GORM与JSON结构体标签指南(含练习).md",
+    "go调度/1.19-1.20/DriverJS新手引导实现手册.md",
+    "go调度/127-128",
+    "go调度/1.27-28/未命名",
+    "go调度/1.27-28",
+    "go调度/1.19-1.20/API设计命名规范-动作与状态.md",
     "go调度/1.18and before a long/Go规则引擎设计与实现.md",
     "go调度/1.18and before a long/前端租户隔离实现方案.md",
     "Excalidraw/Drawing 2026-01-20 22.36.51.excalidraw.md",
-    "go调度/1.19-1.20/API设计命名规范-动作与状态.md",
-    "go调度/1.19-1.20/4.0.grom“忽略零值”的机制.md",
     "go调度/1.19-1.20/Go与Protobuf编码常见错误与最佳实践.md",
-    "go调度/1.19-1.20/DriverJS新手引导实现手册.md",
     "新建文件夹/1231",
     "新建文件夹",
     "其他/新建文件夹",
     "其他/提交.md",
     "其他/新建 文本文档.txt",
-    "go调度/1.19-1.20/GORM与JSON结构体标签指南(含练习).md",
     "go调度/1.19-1.20/Go应用数据流转解析-从网关到数据库.md",
     "go调度/1.19-1.20/Go指针与GORM深度指南.md",
     "go调度/1.19-1.20/Go架构原则-解耦与GORM零值陷阱.md",
@@ -230,19 +257,6 @@
     "go调度/1.19-1.20/3.API 设计笔记命名规范 (Action vs State).md",
     "go调度/1.19-1.20/2.model_grom.md",
     "go调度/1.19-1.20/未命名.md",
-    "其他/1231",
-    "go调度/1.19-1.20/1.driver-guide-notes (1).md",
-    "其他",
-    "新建 文本文档.txt",
-    "未命名.base",
-    "2026-01-20.md",
-    "欢迎.md",
-    "未命名.canvas",
-    "Excalidraw",
-    "go调度/1.18and before a long/reactive vs computed.md",
-    "go调度/1.19-1.20/4.1架构原则.md",
-    "go调度/1.19-1.20/Drawing 2026-01-20 09.31.58.excalidraw.md",
-    "pg/📝 PostgreSQL 学习笔记：Q1. 组合两个表.md",
-    "go调度/1.18and before a long"
+    "未命名.canvas"
   ]
 }

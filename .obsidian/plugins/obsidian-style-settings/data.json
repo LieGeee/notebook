@@ -54,6 +54,5 @@
   "blue-topaz-theme@@inline-title-toggle-short-underline": false,
   "blue-topaz-theme@@toggle-inline-title-background": false,
   "blue-topaz-theme@@tab-title-bar-position": false,
-  "phycat-theme-settings@@dark-color-scheme": "theme-dark-abyss",
-  "phycat-theme-settings@@light-color-scheme": "theme-light-mint"
+  "phycat-theme-settings@@dark-color-scheme": "theme-dark-abyss"
 }

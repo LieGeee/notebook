@@ -1,5 +1,8 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Phycat",
   "accentColor": "",
-  "theme": "moonstone"
+  "theme": "obsidian",
+  "interfaceFontFamily": "寒蝉半圆体",
+  "monospaceFontFamily": "LXGW WenKai",
+  "textFontFamily": "LXGW WenKai"
 }
