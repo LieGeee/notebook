@@ -32,20 +32,33 @@
             }
           },
           {
-            "id": "7c43deeca87586c4",
+            "id": "d2d6493a5ddb41c8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "webviewer",
               "state": {
-                "file": "未命名 3.base",
-                "viewName": "表格"
+                "url": "https://accounts.google.com/v3/signin/challenge/totp?TL=APgKAcauchXVmYDGASkzLz9Qf1A3knB5cuNoe40dfRUwDn2glbRKSFvmPhGCC-Fz&cid=2&continue=https://www.google.com/search?q%3Dchat%26sei%3DWr15aZ6GGbGDm9cP78i46AI&dsh=S-365246557:1769586016159086&ec=futura_srp_og_si_72236_p&flowEntry=ServiceLogin&flowName=WebLiteSignIn&hl=zh-CN&ifkv=AXbMIuB2gWjG4uTsSsNQGvpnow9i1jRQi-mX7xB0__4aLZR5uoEhPPX57yE8eXhDVMjOhjFpO9EddQ",
+                "title": "登录 - Google 账号",
+                "mode": "webview"
               },
-              "icon": "lucide-table",
-              "title": "未命名 3"
+              "icon": "globe-2",
+              "title": "登录 - Google 账号"
+            }
+          },
+          {
+            "id": "c24760adb79ec8e7",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://duckduckgo.com/?q=qfwoq6ltuev7i2pt6qg5auyukw4p2oyd"
+              },
+              "icon": "lucide-file",
+              "title": "Surfing"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,14 +232,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c43deeca87586c4",
+  "active": "c24760adb79ec8e7",
   "lastOpenFiles": [
-    "未命名 2.base",
+    "go调度/127-128/1.1.0repository.md",
     "未命名 3.base",
+    "未命名 2.base",
     "未命名 1.base",
     "未命名.base",
     "go调度/127-128/1.0.0员工短链功能实现笔记.md",
-    "go调度/127-128/1.1.0repository.md",
     "go调度/127-128/1.1.0.2核心调用链.md",
     "go调度/127-128/1.1.0.1解释函数中的含义.md",
     "go调度/127-128/1.2.0 service结构体为什么定义这里.md",
@@ -247,7 +260,6 @@
     "新建文件夹",
     "其他/新建文件夹",
     "其他/提交.md",
-    "其他/新建 文本文档.txt",
     "go调度/1.19-1.20/Go应用数据流转解析-从网关到数据库.md",
     "go调度/1.19-1.20/Go指针与GORM深度指南.md",
     "go调度/1.19-1.20/Go架构原则-解耦与GORM零值陷阱.md",
