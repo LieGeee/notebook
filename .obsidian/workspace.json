@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pg/PostgreSQL 学习笔记：Q1. 组合两个表.md",
+                "file": "pg/Q2超过经理收入的员工.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,10 +44,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL 学习笔记：Q1. 组合两个表"
+              "title": "Q2超过经理收入的员工"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -222,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01980e559e503c80",
+  "active": "d57a108a7f062aef",
   "lastOpenFiles": [
-    "pg/PostgreSQL 学习笔记：Q1. 组合两个表.md",
     "pg/Q2超过经理收入的员工.md",
+    "pg/PostgreSQL 学习笔记：Q1. 组合两个表.md",
     "Pasted image 20260130110626.png",
     "Excalidraw/Drawing 2026-01-20 22.36.51.excalidraw.md",
     "go调度/127-128/1.1.0.2核心调用链.md",
