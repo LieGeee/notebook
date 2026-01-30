@@ -1,4 +1,3 @@
-# 📝 PostgreSQL 学习笔记：Q1. 组合两个表
 
 ## 1. 核心知识点：外联结 (Outer Join)
 

@@ -322,7 +322,7 @@
     "expandedKeys": []
   },
   "pg/Q2超过经理收入的员工.md": {
-    "scroll": 1.3618339529120198,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 1,
@@ -330,6 +330,34 @@
       },
       "to": {
         "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "pg/📝 PostgreSQL 学习笔记：Q1. 组合两个表.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 30
+      },
+      "to": {
+        "line": 0,
+        "ch": 30
+      }
+    },
+    "expandedKeys": []
+  },
+  "pg/PostgreSQL 学习笔记：Q1. 组合两个表.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },
