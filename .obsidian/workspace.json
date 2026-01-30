@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d0f661f43726d178",
+        "id": "ad0630ae3a368e48",
         "type": "tabs",
         "children": [
           {
-            "id": "01980e559e503c80",
+            "id": "cf3d0366841cfb03",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "webviewer",
               "state": {
@@ -18,50 +17,21 @@
                 "title": "Google Gemini",
                 "mode": "webview"
               },
-              "pinned": true,
               "icon": "globe-2",
               "title": "Google Gemini"
             }
           },
           {
-            "id": "eb597fa9511930ad",
+            "id": "12aee04f19e07b85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pg/Q2超过经理收入的员工.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Q2超过经理收入的员工"
-            }
-          },
-          {
-            "id": "3bafa5e356c8b1ad",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "about:blank",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "新建 Web viewer"
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -115,7 +85,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -236,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bafa5e356c8b1ad",
+  "active": "cf3d0366841cfb03",
   "lastOpenFiles": [
     "pg/Q2超过经理收入的员工.md",
     "未命名.canvas",
