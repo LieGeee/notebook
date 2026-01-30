@@ -10,6 +10,7 @@
           {
             "id": "cf3d0366841cfb03",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "webviewer",
               "state": {
@@ -17,18 +18,23 @@
                 "title": "Google Gemini",
                 "mode": "webview"
               },
+              "pinned": true,
               "icon": "globe-2",
               "title": "Google Gemini"
             }
           },
           {
-            "id": "12aee04f19e07b85",
+            "id": "0cc961b2253a9f4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "webviewer",
+              "state": {
+                "url": "https://leetcode.cn/problems/combine-two-tables/description/?envType=problem-list-v2&envId=shujuku-db1-sql-i",
+                "title": "Q1. 组合两个表 - 力扣（LeetCode）",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Q1. 组合两个表 - 力扣（LeetCode）"
             }
           }
         ],
@@ -78,9 +84,11 @@
           {
             "id": "b61dca13cffcf51c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "bookmarks",
               "state": {},
+              "pinned": true,
               "icon": "lucide-bookmark",
               "title": "书签"
             }
@@ -209,6 +217,7 @@
   },
   "active": "cf3d0366841cfb03",
   "lastOpenFiles": [
+    "2026-01-30.md",
     "pg/Q2超过经理收入的员工.md",
     "未命名.canvas",
     "pg/PostgreSQL 学习笔记：Q1. 组合两个表.md",
