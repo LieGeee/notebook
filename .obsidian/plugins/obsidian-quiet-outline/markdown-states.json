@@ -84,15 +84,15 @@
     "expandedKeys": []
   },
   "go调度/127-128/1.0.0员工短链功能实现笔记.md": {
-    "scroll": 161.35719450469992,
+    "scroll": 190.75054229934923,
     "cursor": {
       "from": {
-        "line": 168,
-        "ch": 53
+        "line": 207,
+        "ch": 14
       },
       "to": {
-        "line": 168,
-        "ch": 60
+        "line": 207,
+        "ch": 14
       }
     },
     "expandedKeys": []
@@ -154,15 +154,15 @@
     "expandedKeys": []
   },
   "go调度/127-128/1.1.0.1解释函数中的含义.md": {
-    "scroll": 27.534117647058824,
+    "scroll": 27.326235294117648,
     "cursor": {
       "from": {
         "line": 35,
-        "ch": 12
+        "ch": 10
       },
       "to": {
         "line": 35,
-        "ch": 12
+        "ch": 10
       }
     },
     "expandedKeys": []
@@ -252,15 +252,15 @@
     "expandedKeys": []
   },
   "go调度/127-128/1.1.0.2核心调用链.md": {
-    "scroll": 31.346867403079287,
+    "scroll": 3.611464968152866,
     "cursor": {
       "from": {
-        "line": 40,
-        "ch": 0
+        "line": 11,
+        "ch": 9
       },
       "to": {
-        "line": 40,
-        "ch": 0
+        "line": 11,
+        "ch": 19
       }
     },
     "expandedKeys": []
@@ -288,6 +288,48 @@
       },
       "to": {
         "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Excalidraw/Drawing 2026-01-20 22.36.51.excalidraw.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "pg/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "pg/Q2超过经理收入的员工.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },

@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go调度/127-128/1.0.0员工短链功能实现笔记.md",
+                "file": "pg/Q2超过经理收入的员工.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,7 +44,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0.0员工短链功能实现笔记"
+              "title": "Q2超过经理收入的员工"
             }
           }
         ],
@@ -224,10 +224,13 @@
   },
   "active": "41ed42f1894f1bdf",
   "lastOpenFiles": [
-    "go调度/127-128/1.1.0.1解释函数中的含义.md",
+    "pg/📝 PostgreSQL 学习笔记：Q1. 组合两个表.md",
+    "pg/Q2超过经理收入的员工.md",
+    "Excalidraw/Drawing 2026-01-20 22.36.51.excalidraw.md",
     "go调度/127-128/1.1.0.2核心调用链.md",
-    "go调度/127-128/1.1.0  model.md",
+    "go调度/127-128/1.1.0.1解释函数中的含义.md",
     "go调度/127-128/1.0.0员工短链功能实现笔记.md",
+    "go调度/127-128/1.1.0  model.md",
     "go调度/127-128/1.1.1直接命名create.md",
     "2026-01-28.md",
     "未命名 3.base",
@@ -245,7 +248,6 @@
     "go调度/1.19-1.20/API设计命名规范-动作与状态.md",
     "go调度/1.18and before a long/Go规则引擎设计与实现.md",
     "go调度/1.18and before a long/前端租户隔离实现方案.md",
-    "Excalidraw/Drawing 2026-01-20 22.36.51.excalidraw.md",
     "go调度/1.19-1.20/Go与Protobuf编码常见错误与最佳实践.md",
     "新建文件夹/1231",
     "新建文件夹",
@@ -258,8 +260,6 @@
     "go调度/1.19-1.20/7.知识薄弱点分析与学习笔记.md",
     "go调度/1.19-1.20/5指针在gorm和函数中使用.md",
     "go调度/1.19-1.20/3.API 设计笔记命名规范 (Action vs State).md",
-    "go调度/1.19-1.20/2.model_grom.md",
-    "go调度/1.19-1.20/未命名.md",
     "未命名.canvas"
   ]
 }
