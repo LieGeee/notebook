@@ -10,6 +10,7 @@
           {
             "id": "01980e559e503c80",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "webviewer",
               "state": {
@@ -17,6 +18,7 @@
                 "title": "Google Gemini",
                 "mode": "webview"
               },
+              "pinned": true,
               "icon": "globe-2",
               "title": "Google Gemini"
             }
@@ -27,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go调度/127-128/1.1.0  repository.md",
+                "file": "go调度/127-128/1.1.0.1解释函数中的含义.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,11 +44,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.1.0  repository"
+              "title": "1.1.0.1解释函数中的含义"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -104,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2aecd88502f04d07",
@@ -222,18 +222,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41ed42f1894f1bdf",
+  "active": "01980e559e503c80",
   "lastOpenFiles": [
+    "go调度/127-128/1.1.0.1解释函数中的含义.md",
+    "go调度/127-128/1.1.0  model.md",
     "go调度/127-128/1.0.0员工短链功能实现笔记.md",
     "go调度/127-128/1.1.1直接命名create.md",
     "2026-01-28.md",
-    "go调度/127-128/1.1.0  repository.md",
     "未命名 3.base",
     "未命名 2.base",
     "未命名 1.base",
     "未命名.base",
     "go调度/127-128/1.1.0.2核心调用链.md",
-    "go调度/127-128/1.1.0.1解释函数中的含义.md",
     "go调度/127-128/1.2.0 service结构体为什么定义这里.md",
     "go调度/1.19-1.20/4.0.grom“忽略零值”的机制.md",
     "go调度/127-128/1.2.1Generate函数解读.md",
