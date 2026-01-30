@@ -15,7 +15,7 @@
               "state": {
                 "url": "https://gemini.google.com/app/53620f23b372b204?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20437330476&gbraid=0AAAAApk5BhmG53BHfeSui5nLbwWbTYIUY&gclid=Cj0KCQiA4eHLBhCzARIsAJ2NZoIAZRFkZerzKfxLVjM3WM4Cl_UjYgIboB3r02vayszEVtWdlVdaKvIaAsI8EALw_wcB",
                 "title": "Google Gemini",
-                "mode": "blank"
+                "mode": "webview"
               },
               "icon": "globe-2",
               "title": "Google Gemini"
@@ -25,19 +25,9 @@
             "id": "41ed42f1894f1bdf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "c04caacac7fbb52e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "go调度/127-128/1.0.0员工短链功能实现笔记.md",
+                "file": "go调度/127-128/1.1.0  repository.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +42,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0.0员工短链功能实现笔记"
+              "title": "1.1.0  repository"
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -232,11 +222,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c04caacac7fbb52e",
+  "active": "41ed42f1894f1bdf",
   "lastOpenFiles": [
     "go调度/127-128/1.0.0员工短链功能实现笔记.md",
+    "go调度/127-128/1.1.1直接命名create.md",
     "2026-01-28.md",
-    "go调度/127-128/1.1.0repository.md",
+    "go调度/127-128/1.1.0  repository.md",
     "未命名 3.base",
     "未命名 2.base",
     "未命名 1.base",
@@ -244,7 +235,6 @@
     "go调度/127-128/1.1.0.2核心调用链.md",
     "go调度/127-128/1.1.0.1解释函数中的含义.md",
     "go调度/127-128/1.2.0 service结构体为什么定义这里.md",
-    "go调度/127-128/1.1.1直接命名create.md",
     "go调度/1.19-1.20/4.0.grom“忽略零值”的机制.md",
     "go调度/127-128/1.2.1Generate函数解读.md",
     "go调度/1.19-1.20/GORM与JSON结构体标签指南(含练习).md",
