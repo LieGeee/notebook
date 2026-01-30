@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go调度/127-128/1.1.0.1解释函数中的含义.md",
+                "file": "go调度/127-128/1.1.0.2核心调用链.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,10 +44,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.1.0.1解释函数中的含义"
+              "title": "1.1.0.2核心调用链"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -207,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01980e559e503c80",
+  "active": "41ed42f1894f1bdf",
   "lastOpenFiles": [
     "go调度/127-128/1.1.0.1解释函数中的含义.md",
     "go调度/127-128/1.1.0  model.md",
