@@ -26,15 +26,41 @@
           {
             "id": "0cc961b2253a9f4c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://leetcode.cn/problems/combine-two-tables/description/?envType=problem-list-v2&envId=shujuku-db1-sql-i",
-                "title": "Q1. 组合两个表 - 力扣（LeetCode）",
+                "url": "https://leetcode.cn/problems/not-boring-movies/?envType=problem-list-v2&envId=shujuku-db1-sql-i",
+                "title": "Q3. 有趣的电影 - 力扣（LeetCode）",
                 "mode": "webview"
               },
+              "pinned": true,
               "icon": "globe-2",
-              "title": "Q1. 组合两个表 - 力扣（LeetCode）"
+              "title": "Q3. 有趣的电影 - 力扣（LeetCode）"
+            }
+          },
+          {
+            "id": "0c7c389fb16b16c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pg/q3(排序)有趣的电影.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "q3(排序)有趣的电影"
             }
           }
         ],
@@ -93,8 +119,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,8 +242,9 @@
   },
   "active": "cf3d0366841cfb03",
   "lastOpenFiles": [
-    "2026-01-30.md",
+    "pg/q3(排序)有趣的电影.md",
     "pg/Q2超过经理收入的员工.md",
+    "2026-01-30.md",
     "未命名.canvas",
     "pg/PostgreSQL 学习笔记：Q1. 组合两个表.md",
     "Pasted image 20260130110626.png",
@@ -253,7 +279,6 @@
     "go调度/1.19-1.20/Go指针与GORM深度指南.md",
     "go调度/1.19-1.20/Go架构原则-解耦与GORM零值陷阱.md",
     "go调度/1.19-1.20/6.数据流转.md",
-    "go调度/1.19-1.20/7.知识薄弱点分析与学习笔记.md",
-    "go调度/1.19-1.20/5指针在gorm和函数中使用.md"
+    "go调度/1.19-1.20/7.知识薄弱点分析与学习笔记.md"
   ]
 }
