@@ -14,13 +14,13 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app/53620f23b372b204?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20437330476&gbraid=0AAAAApk5BhmG53BHfeSui5nLbwWbTYIUY&gclid=Cj0KCQiA4eHLBhCzARIsAJ2NZoIAZRFkZerzKfxLVjM3WM4Cl_UjYgIboB3r02vayszEVtWdlVdaKvIaAsI8EALw_wcB",
-                "title": "Google Gemini",
-                "mode": "webview"
+                "url": "https://gemini.google.com/app/b59d374c16581b9b?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20437330476&gbraid=0AAAAApk5BhmG53BHfeSui5nLbwWbTYIUY&gclid=Cj0KCQiA4eHLBhCzARIsAJ2NZoIAZRFkZerzKfxLVjM3WM4Cl_UjYgIboB3r02vayszEVtWdlVdaKvIaAsI8EALw_wcB",
+                "title": "data:text/plain,",
+                "mode": "blank"
               },
               "pinned": true,
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "data:text/plain,"
             }
           },
           {
@@ -32,7 +32,7 @@
               "state": {
                 "url": "https://leetcode.cn/problems/not-boring-movies/?envType=problem-list-v2&envId=shujuku-db1-sql-i",
                 "title": "Q3. 有趣的电影 - 力扣（LeetCode）",
-                "mode": "webview"
+                "mode": "blank"
               },
               "pinned": true,
               "icon": "globe-2",
@@ -64,6 +64,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -240,7 +241,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf3d0366841cfb03",
+  "active": "0c7c389fb16b16c2",
   "lastOpenFiles": [
     "pg/q3(排序)有趣的电影.md",
     "pg/Q2超过经理收入的员工.md",
